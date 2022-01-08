@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @TonyAdornato
-- 👀 I’m interested in teaching myself how to code.
-        - My current job is working as an automation engineer. I program robots in a proprietary language.
-        - I would like to expand my skills to include Python.
-        - The projects you see here are all based around that idea.
+- 👀 I’m interested in teaching myself how to code. My current job is working as an automation engineer. I program robots in a proprietary language. I would like to expand my skills to include Python. The projects you see here are all based around that idea.
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on nothing quite yet
-- 📫 How to reach me ...
+- 💞️ I’m not looking to collaborate on anything quite yet.
+- 📫 How to reach me: 
 
 <!---
 TonyAdornato/TonyAdornato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
